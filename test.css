@@ -1,0 +1,58 @@
+body{
+    background-image: url('background.jpg');
+    background-color: aqua;
+}
+#Header{
+    border: solid 8px black;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #8339CF;
+    color: #FFBC00;
+    font-family: 'Passion One';
+
+}
+#LeftNav{
+    border: solid 8px black;
+    float:left;
+    width:250px;
+    text-align: center;
+    background-color: #8339CF;
+}
+#LeftNav ul{
+    list-style-type: none;
+}
+#Content{
+    border: solid 8px black;
+    width: 600px;
+    margin:auto;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #8339CF;
+    padding: 15px;
+}
+#bow{
+    color: #FFBC00;
+    font-size: 30px;
+    font-weight: bold;
+}
+#Footer{
+    border: solid 8px black;
+    background-color: #8339CF;
+    text-align: center;
+}
+#Footer ul{
+    list-style-type: none;
+}
+h3{
+    color:  #FFBC00;
+    font-size: 40px;
+    font-family: 'Passion one';
+    margin-bottom: 10px;
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
