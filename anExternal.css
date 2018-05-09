@@ -1,0 +1,41 @@
+img{
+    width: 50px;
+    height: 50px;
+}
+#font1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#font2{
+    font-family: cursive;
+}
+p:hover{
+    background-color: rgb(23, 100, 114);
+    color: darkslategray;
+}
+p{
+    width: 180px;
+   
+}
+#center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 20px;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color:black;
+    width: 50%;
+    height:50%;
+    float: right;
+}
+#centerpic{
+    width:  50%;
+    height: 50%;
+    margin: 20px;
+    border: black 2px dotted;
+    border-radius: 20px;
+}
